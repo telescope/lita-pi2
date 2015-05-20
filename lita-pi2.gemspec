@@ -5,8 +5,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["rahoul@telescopestudios.com"]
   spec.description   = "A gem for linking HipChat with Telescope Studios"
   spec.summary       = "A gem for linking HipChat with Telescope Studios"
-  spec.homepage      = "A gem for linking HipChat with Telescope Studios"
-  spec.license       = "A gem for linking HipChat with Telescope Studios"
+  spec.homepage      = "http://www.telescopestudios.com"
+  spec.license       = "GPL"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
   spec.files         = `git ls-files`.split($/)
